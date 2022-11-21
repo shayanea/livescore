@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Morabba/Morabba-Bold.ttf",
+      "sha1": "faa7b2ebfbae0381a7365c467896b8529594b73d"
+    },
+    {
+      "path": "src/assets/fonts/Morabba/Morabba-Light.ttf",
+      "sha1": "1a07406744397b97a9654cd7ad6705b189f94907"
+    },
+    {
+      "path": "src/assets/fonts/Morabba/Morabba-Regular.ttf",
+      "sha1": "15836940ea5b9bdc4a452e68615e7816b70c8c74"
+    },
+    {
+      "path": "src/assets/fonts/Morabba/Morabba-SemiBold.ttf",
+      "sha1": "aadc566d12ba90faa8fb758cbb1b080852fba193"
+    },
+    {
+      "path": "src/assets/fonts/Morabba/Morabba-UltraLight.ttf",
+      "sha1": "9200359d3a8f5c16a53d69ef65f8397b529806e5"
+    },
+    {
+      "path": "src/assets/fonts/Yekan/YekanBakhFaNum-Bold.ttf",
+      "sha1": "70e96a95ff0b12c2d0d60b32533d9b0886ce7f6b"
+    },
+    {
+      "path": "src/assets/fonts/Yekan/YekanBakhFaNum-ExtraBold.ttf",
+      "sha1": "04b2fda39ab4eb99265606adc2fc7b5ea3aadab9"
+    },
+    {
+      "path": "src/assets/fonts/Yekan/YekanBakhFaNum-Light.ttf",
+      "sha1": "6b93881c7dafcb17875d1b8adbb6b18d6fd4c97b"
+    },
+    {
+      "path": "src/assets/fonts/Yekan/YekanBakhFaNum-Regular.ttf",
+      "sha1": "07b5e29004d9281c4d6cf22d70f5288665382ecb"
+    },
+    {
+      "path": "src/assets/fonts/Yekan/YekanBakhFaNum-SemiBold.ttf",
+      "sha1": "1accd542b1537886c4d1c89805309a1c1933c407"
+    },
+    {
+      "path": "src/assets/fonts/Yekan/YekanBakhFaNum-Thin.ttf",
+      "sha1": "21666e6455b84e7cf61d2766dbbe8d89dcb22f07"
+    }
+  ]
+}

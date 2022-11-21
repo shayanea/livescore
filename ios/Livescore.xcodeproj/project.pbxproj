@@ -15,6 +15,17 @@
 		7699B88040F8A987B510C191 /* libPods-Livescore-LivescoreTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Livescore-LivescoreTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		84F66ABD292A9E1C005F8C41 /* hermes.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F66ABC292A9E1C005F8C41 /* hermes.xcframework */; };
+		7A4CAC531A144F0A9202E6D2 /* Morabba-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E700300BAAB1432E9B9F5209 /* Morabba-Bold.ttf */; };
+		50936C556F2047A1A84719F4 /* Morabba-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BE8514730214322B3F26C85 /* Morabba-Light.ttf */; };
+		A1290C113B124CC9A44B62A5 /* Morabba-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B32354B7C2D47B39127B5A3 /* Morabba-Regular.ttf */; };
+		92B3D16FB16C47D88304BF6E /* Morabba-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9F45077156040BCA885FB9F /* Morabba-SemiBold.ttf */; };
+		4E2C7C6C9D0F47B0BB07FB08 /* Morabba-UltraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B976356863414055B5DEC8E9 /* Morabba-UltraLight.ttf */; };
+		463E7C9650DE4EE9A2211855 /* YekanBakhFaNum-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 64306409222C4B5BAFD7AFBF /* YekanBakhFaNum-Bold.ttf */; };
+		05F459474DAF4255A16AB32A /* YekanBakhFaNum-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 33809B1345D6443F9ABCEC68 /* YekanBakhFaNum-ExtraBold.ttf */; };
+		3BE049DAE83B4D92A6A68B2B /* YekanBakhFaNum-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A477FE452A80449EA1CDCA70 /* YekanBakhFaNum-Light.ttf */; };
+		4B8FD58FC5904381A1714F2C /* YekanBakhFaNum-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B5BB34F84D641E380566C26 /* YekanBakhFaNum-Regular.ttf */; };
+		3D41013238E642B9BBFE1B13 /* YekanBakhFaNum-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 00082B9B8C09475CA2643235 /* YekanBakhFaNum-SemiBold.ttf */; };
+		1F6C3DD6769148F7BA4172E5 /* YekanBakhFaNum-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1A4148D2A164B3CB1108890 /* YekanBakhFaNum-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +57,17 @@
 		84F66ABC292A9E1C005F8C41 /* hermes.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = hermes.xcframework; path = "Pods/hermes-engine/destroot/Library/Frameworks/universal/hermes.xcframework"; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Livescore-LivescoreTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Livescore-LivescoreTests.release.xcconfig"; path = "Target Support Files/Pods-Livescore-LivescoreTests/Pods-Livescore-LivescoreTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		E700300BAAB1432E9B9F5209 /* Morabba-Bold.ttf */ = {isa = PBXFileReference; name = "Morabba-Bold.ttf"; path = "../src/assets/fonts/Morabba/Morabba-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6BE8514730214322B3F26C85 /* Morabba-Light.ttf */ = {isa = PBXFileReference; name = "Morabba-Light.ttf"; path = "../src/assets/fonts/Morabba/Morabba-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6B32354B7C2D47B39127B5A3 /* Morabba-Regular.ttf */ = {isa = PBXFileReference; name = "Morabba-Regular.ttf"; path = "../src/assets/fonts/Morabba/Morabba-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D9F45077156040BCA885FB9F /* Morabba-SemiBold.ttf */ = {isa = PBXFileReference; name = "Morabba-SemiBold.ttf"; path = "../src/assets/fonts/Morabba/Morabba-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B976356863414055B5DEC8E9 /* Morabba-UltraLight.ttf */ = {isa = PBXFileReference; name = "Morabba-UltraLight.ttf"; path = "../src/assets/fonts/Morabba/Morabba-UltraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		64306409222C4B5BAFD7AFBF /* YekanBakhFaNum-Bold.ttf */ = {isa = PBXFileReference; name = "YekanBakhFaNum-Bold.ttf"; path = "../src/assets/fonts/Yekan/YekanBakhFaNum-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		33809B1345D6443F9ABCEC68 /* YekanBakhFaNum-ExtraBold.ttf */ = {isa = PBXFileReference; name = "YekanBakhFaNum-ExtraBold.ttf"; path = "../src/assets/fonts/Yekan/YekanBakhFaNum-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A477FE452A80449EA1CDCA70 /* YekanBakhFaNum-Light.ttf */ = {isa = PBXFileReference; name = "YekanBakhFaNum-Light.ttf"; path = "../src/assets/fonts/Yekan/YekanBakhFaNum-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3B5BB34F84D641E380566C26 /* YekanBakhFaNum-Regular.ttf */ = {isa = PBXFileReference; name = "YekanBakhFaNum-Regular.ttf"; path = "../src/assets/fonts/Yekan/YekanBakhFaNum-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		00082B9B8C09475CA2643235 /* YekanBakhFaNum-SemiBold.ttf */ = {isa = PBXFileReference; name = "YekanBakhFaNum-SemiBold.ttf"; path = "../src/assets/fonts/Yekan/YekanBakhFaNum-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A1A4148D2A164B3CB1108890 /* YekanBakhFaNum-Thin.ttf */ = {isa = PBXFileReference; name = "YekanBakhFaNum-Thin.ttf"; path = "../src/assets/fonts/Yekan/YekanBakhFaNum-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +148,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				292BCBB6152C4A4D98BDB37B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -151,6 +174,25 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		292BCBB6152C4A4D98BDB37B /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				E700300BAAB1432E9B9F5209 /* Morabba-Bold.ttf */,
+				6BE8514730214322B3F26C85 /* Morabba-Light.ttf */,
+				6B32354B7C2D47B39127B5A3 /* Morabba-Regular.ttf */,
+				D9F45077156040BCA885FB9F /* Morabba-SemiBold.ttf */,
+				B976356863414055B5DEC8E9 /* Morabba-UltraLight.ttf */,
+				64306409222C4B5BAFD7AFBF /* YekanBakhFaNum-Bold.ttf */,
+				33809B1345D6443F9ABCEC68 /* YekanBakhFaNum-ExtraBold.ttf */,
+				A477FE452A80449EA1CDCA70 /* YekanBakhFaNum-Light.ttf */,
+				3B5BB34F84D641E380566C26 /* YekanBakhFaNum-Regular.ttf */,
+				00082B9B8C09475CA2643235 /* YekanBakhFaNum-SemiBold.ttf */,
+				A1A4148D2A164B3CB1108890 /* YekanBakhFaNum-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -248,6 +290,17 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				7A4CAC531A144F0A9202E6D2 /* Morabba-Bold.ttf in Resources */,
+				50936C556F2047A1A84719F4 /* Morabba-Light.ttf in Resources */,
+				A1290C113B124CC9A44B62A5 /* Morabba-Regular.ttf in Resources */,
+				92B3D16FB16C47D88304BF6E /* Morabba-SemiBold.ttf in Resources */,
+				4E2C7C6C9D0F47B0BB07FB08 /* Morabba-UltraLight.ttf in Resources */,
+				463E7C9650DE4EE9A2211855 /* YekanBakhFaNum-Bold.ttf in Resources */,
+				05F459474DAF4255A16AB32A /* YekanBakhFaNum-ExtraBold.ttf in Resources */,
+				3BE049DAE83B4D92A6A68B2B /* YekanBakhFaNum-Light.ttf in Resources */,
+				4B8FD58FC5904381A1714F2C /* YekanBakhFaNum-Regular.ttf in Resources */,
+				3D41013238E642B9BBFE1B13 /* YekanBakhFaNum-SemiBold.ttf in Resources */,
+				1F6C3DD6769148F7BA4172E5 /* YekanBakhFaNum-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
