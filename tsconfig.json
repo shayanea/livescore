@@ -2,9 +2,51 @@
 {
   "extends": "@tsconfig/react-native/tsconfig.json",     /* Recommended React Native TSConfig base */
   "compilerOptions": {
-    /* Visit https://aka.ms/tsconfig.json to read more about this file */
-
-    /* Completeness */
-    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
-  }
+		"target": "esnext",
+    "module": "esnext",
+    "lib": ["esnext"],
+    "allowJs": true,
+    "jsx": "react-native",
+    "noEmit": true,
+    "isolatedModules": false,
+    "strict": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    // ? Custom ones
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "forceConsistentCasingInFileNames": true,   
+		"baseUrl": "./src",
+		"paths": {
+      "@shared-components/*": ["./shared/components/*"],
+      "@utils-constants": ["./utils/constants"],
+      "@font-size": ["./theme/font-size"],
+      "@api": ["./services/api/index"],
+      "@fonts": ["./theme/fonts"],
+      "@colors": ["./theme/colors"],
+      "@theme/*": ["./theme/*"],
+      "@services/*": ["./services/*"],
+      "@screens/*": ["./screens/*"],
+      "@utils": ["./utils/"],
+      "@assets": ["./assets/"],
+      "@local-storage": ["./services/local-storage"]
+    }                          
+  },
+	"exclude": [
+    "node_modules",
+    "babel.config.js",
+    "metro.config.js",
+    "jest.config.js"
+  ]
 }
